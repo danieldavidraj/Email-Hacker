@@ -12,7 +12,7 @@ Check it out :
 * Hacking can be misused,but don't worry you can get the password from me to get full access
 * Or just try the [Demo](http://danieldavidraj.rf.gd/Demo.php) to check if this really works
 <div align="center">
-<img src="1.png" height="500px" width="1000px">
+<img src="1.png" height="500px" width="800px">
 </div>
 
 
