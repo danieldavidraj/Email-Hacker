@@ -21,4 +21,8 @@ Check it out :
 <div align="center">
 <img src="2.png" height="500px" width="800px">
 </div>
+
 # Happy Hacking
+<div align="center">
+<img src="3.png" height="500px" width="100%">
+</div>
