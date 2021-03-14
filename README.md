@@ -21,5 +21,4 @@ Check it out :
 <div align="center">
 <img src="2.png" height="500px" width="800px">
 </div>
-
-<h1>Happy Hacking</h1>
+# Happy Hacking
