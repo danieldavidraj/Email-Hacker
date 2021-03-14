@@ -3,8 +3,14 @@
 </div>
 
 # Email-Hacker
-Send email from any account or domain<br><br>
-Link to view the website:
+Pranking friends by sending emails from their account can be fun <br>
+Can it be practical ? <br>
+Check it out here:
 [Email Hacker](http://danieldavidraj.rf.gd/?i=1)
-* Ping me to get the password
-* Happy Hacking
+
+## Step 1 :
+<div align="center">
+<img src="1.png">
+</div>
+* Hacking can be misused,but don't worry you can get the password from me to get full access
+* Or just try the [Demo](http://danieldavidraj.rf.gd/Demo.php) to check if this really works
