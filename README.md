@@ -14,6 +14,10 @@ Check it out :
 <div align="center">
 <img src="1.png" height="500px" width="800px">
 </div>
+
 ## Step 2 :
-
-
+* Make sure to fill all the fields and I'll do the hacking for you
+* You can send mails from any account to any account 
+<div align="center">
+<img src="2.png" height="500px" width="800px">
+</div>
