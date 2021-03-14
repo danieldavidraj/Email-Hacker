@@ -12,14 +12,14 @@ Check it out :
 * Hacking can be misused,but don't worry you can get the password from me to get full access
 * Or try the [Demo](http://danieldavidraj.rf.gd/Demo.php) to check if this really works
 <div align="center">
-<img src="1.png" height="auto" width="100%">
+<img src="1.png" height="auto" width="800px">
 </div>
 
 ## Step 2 :
 * Make sure to fill all the fields and I'll do the hacking for you
 * You can send mails from any account to any account 
 <div align="center">
-<img src="2.png" height="500px" width="800px">
+<img src="2.png" height="auto" width="800px">
 </div>
 
 # Happy Hacking
