@@ -5,10 +5,10 @@
 # Email-Hacker
 Pranking friends by sending emails from their account can be fun <br>
 Can it be practical ? <br>
-Check it out here:
+Check it out :
 [Email Hacker](http://danieldavidraj.rf.gd/?i=1)
 
-## Step 1 :
+### Step 1 :
 <div align="center">
 <img src="1.png">
 </div>
