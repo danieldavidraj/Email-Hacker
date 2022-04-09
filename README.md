@@ -9,7 +9,7 @@ Check it out :
 [Email Hacker](http://danieldavidraj.rf.gd/?i=1)
 
 ## Step 1 :
-* Hacking can be misused,but don't worry you can get the password from me to get full access
+* Hacking can be misused,but don't worry the password is not revealed from me to get full access
 * Or try the [Demo](http://danieldavidraj.rf.gd/Demo.php) to check if this really works
 <div align="center">
 <img src="1.png" height="auto" width="800px">
