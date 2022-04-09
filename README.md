@@ -22,4 +22,5 @@ Check it out :
 <img src="images/2.png" height="auto" width="800px">
 </div>
 
-# Happy Hacking&ensp;<img src="3.png" height="50px" width="50px">
+# Happy Hacking
+<img src="images/3.png" height="50px" width="50px">
