@@ -6,7 +6,7 @@
 Pranking friends by sending emails from their account can be fun <br>
 Can it be practical ? <br>
 Check it out :
-[Email Hacker](http://danieldavidraj.rf.gd/?i=1)
+[Email Hacker](https://danieldavidraj.rf.gd/?i=1)
 
 ## Step 1 :
 * Hacking can be misused,but don't worry the password is not revealed from me to get full access
